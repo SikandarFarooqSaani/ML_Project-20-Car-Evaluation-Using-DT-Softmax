@@ -60,8 +60,6 @@ We explored **GridSearchCV** and **RandomizedSearchCV** for hyperparameter tunin
   <img width="649" height="547" alt="20-1" src="https://github.com/user-attachments/assets/f9b2ba16-a607-4d74-beac-6f23be2affd2" />
  
 
----
-
 ### 📌 GridSearchCV  
 - Parameters tested:  
 ```python
