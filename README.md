@@ -62,7 +62,6 @@ We explored **GridSearchCV** and **RandomizedSearchCV** for hyperparameter tunin
 
 ### 📌 GridSearchCV  
 - Parameters tested:  
-```python
 param_grid = {
     'criterion':['gini','entropy'],
     'splitter':['best','random'],
